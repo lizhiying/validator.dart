@@ -6,3 +6,5 @@ homepage: https://github.com/karan/validator.dart
 documentation: https://github.com/karan/validator.dart
 dependencies:
   unittest: any
+environment:
+  sdk: ">=1.23.0 <3.0.0"
